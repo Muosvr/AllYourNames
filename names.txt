@@ -3,10 +3,6 @@ Steven Barriere
 Thomas Blais
 Jethro Glaudin
 Hayden Bryant
-<<<<<<< HEAD
-=======
-Thomas Blais
->>>>>>> 168ee78f34f0fb47ec244eb2f7f08d9f7e63aeb9
 JoséMiguel Marte
 Sir Thomas Martinez III
 Leah Grace
@@ -14,3 +10,6 @@ Carl Kakisis
 Matt Tartaglia
 Lucy Ly
 Carl Durand
+Leah Grace
+Baheem Ferrell
+Nate Kwapo
